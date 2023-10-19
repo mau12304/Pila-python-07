@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pila python", "pila python.pyproj", "{176A053E-40A3-4BEB-95B3-D5A2D7B9BFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176A053E-40A3-4BEB-95B3-D5A2D7B9BFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176A053E-40A3-4BEB-95B3-D5A2D7B9BFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB2993C-2A64-42A5-B7FD-EEB3D95D9E5E}
+	EndGlobalSection
+EndGlobal
